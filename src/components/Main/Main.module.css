@@ -1,0 +1,12 @@
+.maincontainer {
+  height: 200px;
+}
+
+.title {
+  font-size: 7rem;
+  font-family: "Bebas Neue", cursive;
+  color: white;
+  text-align: center;
+  height: 500px;
+  margin-top: 80px;
+}
